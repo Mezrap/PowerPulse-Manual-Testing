@@ -10,10 +10,12 @@ Bu modül, yetkisiz kullanıcıya ait başlangıç sayfası ve header bileşenle
 
 ---
 
-# İçindekiler
+İçindekiler
 
 1. Gereksinim İzlenebilirlik Matrisi (RTM)
+
     1.1. Şablon Genişliği Uyumu - CL-001 [UA-SP]
+
         1.1.1. Bug Raporu - BUG-001 [UA-SP]
         1.1.2. Bug Raporu - BUG-002 [UA-SP]
         1.1.3. Bug Raporu - BUG-003 [UA-SP]
@@ -23,8 +25,8 @@ Bu modül, yetkisiz kullanıcıya ait başlangıç sayfası ve header bileşenle
     1.3. Başlangıç Sayfası İçeriği - CL-003 [UA-SP]
 
     1.4. İstatistiksel Bilgiler ve Görsel İçeriği - CL-004 [UA-SP]
-        1.4.1. Bug Raporu - BUG-004 [UA-SP]
 
+        1.4.1. Bug Raporu - BUG-004 [UA-SP]
 ---
 
 # Modül Bilgisi
