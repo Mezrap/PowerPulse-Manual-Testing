@@ -121,12 +121,19 @@ PowerPulse-Manual-Testing/
 │
 ├── 07_Yetkili_Kullanıcı_Exercises/
 │
-└── README.md# PowerPulse-Manual-Testing
-Manual QA Testing Project for the PowerPulse application.
+└── README.md# 
+
+---
+
+### 📁 Tüm Proje Dokümantasyonu
+
+**[PowerPulse – QA Project Documentation](https://drive.google.com/drive/folders/1TnHAVVsTXDlDeeHpc6fVwZJIBEFSwNx9?usp=drive_link)**
+
+Projenin tüm QA dokümantasyonuna, test çalışmalarına ve destekleyici proje dosyalarına Google Drive üzerinden erişilebilir.
 
 
 ## 👤 QA Tester
 
 **Beril Z. Ovayurt**
 
-**Role:** Manual QA / Software Test Engineer
+**Role:** Manual QA / Software Test Engineer**

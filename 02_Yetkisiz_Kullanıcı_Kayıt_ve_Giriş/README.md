@@ -22,35 +22,35 @@ Bu modül, yetkisiz kullanıcının Sign In ve Sign Up işlemlerinin, form alanl
 
         2.1.3. Kullanıcı Varlığı – Sign In – TC – 003 [UA – SI]
 
-   2.3. Sign Up Form İçeriği – CL – 006 [UA – SU]
+   2.2. Sign Up Form İçeriği – CL – 006 [UA – SU]
 
-        2.3.1. Sign Up Form Doğrulama (+) – TC – 004 [UA – SU]
+        2.2.1. Sign Up Form Doğrulama (+) – TC – 004 [UA – SU]
 
-               2.3.1.1. Bug Raporu – BUG – 005 [UA – SU]
+               2.2.1.1. Bug Raporu – BUG – 005 [UA – SU]
 
-        2.3.2. Sign Up Form Doğrulama (-) – TC – 005 [UA – SU]
+        2.2.2. Sign Up Form Doğrulama (-) – TC – 005 [UA – SU]
 
-        2.3.3. Email Girişi Doğrulama (-) – TC – 006 [UA – SU]
+        2.2.3. Email Girişi Doğrulama (-) – TC – 006 [UA – SU]
 
-        2.3.4. Password Giriş Doğrulama (+) – TC – 007 [UA – SU]
+        2.2.4. Password Giriş Doğrulama (+) – TC – 007 [UA – SU]
 
-               2.3.4.1. Bug Raporu – BUG – 006 [UA – SU]
+               2.2.4.1. Bug Raporu – BUG – 006 [UA – SU]
 
-        2.3.5. Password Giriş Doğrulama (-) – TC – 008 [UA – SU]
+        2.2.5. Password Giriş Doğrulama (-) – TC – 008 [UA – SU]
 
-               2.3.5.1. Bug Raporu – BUG – 007 [UA – SU]
+               2.2.5.1. Bug Raporu – BUG – 007 [UA – SU]
 
-               2.3.5.2. Bug Raporu – BUG – 008 [UA – SU]
+               2.2.5.2. Bug Raporu – BUG – 008 [UA – SU]
 
-        2.3.6. Name Girişi Doğrulama (+) – TC – 009 [UA – SU]
+        2.2.6. Name Girişi Doğrulama (+) – TC – 009 [UA – SU]
 
-        2.3.7. Name Girişi Doğrulama (-) – TC – 010 [UA – SU]
+        2.2.7. Name Girişi Doğrulama (-) – TC – 010 [UA – SU]
 
-               2.3.7.1. Bug Raporu – BUG – 009 [UA – SU]
+               2.2.7.1. Bug Raporu – BUG – 009 [UA – SU]
 
-               2.3.7.2. Bug Raporu – BUG – 010 [UA – SU]
+               2.2.7.2. Bug Raporu – BUG – 010 [UA – SU]
 
-               2.3.7.3. Bug Raporu – BUG – 011 [UA – SU]
+               2.2.7.3. Bug Raporu – BUG – 011 [UA – SU]
 
 ---
 
