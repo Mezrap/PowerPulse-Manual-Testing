@@ -69,7 +69,6 @@ Test çalışmalarında gereksinim bazlı test yaklaşımı esas alınarak:
 - Integration Testing
 - System Testing
 - Acceptance Testing
-- Regression / Re-test kontrolleri
 
 uygulanmıştır.
 
