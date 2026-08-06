@@ -101,12 +101,6 @@ Proje kapsamında aşağıdaki QA dokümanları hazırlanmıştır:
 PowerPulse-Manual-Testing/
 │
 ├── 00_Proje_Yönetimi/
-│   ├── 00A - TR_PowerPulse_Tech_Task.xlsx
-│   ├── 00B - QA_Dokümantasyon_Standardı.docx
-│   ├── 01 - QA_Belge_Dizini.xlsx
-│   ├── 02 - QA_Bug_Dizini.xlsx
-│   ├── 03 - Sprint_Planı.docx
-│   ├── 04 - Günlük_Scrum_Kaydı.xlsx
 │
 ├── 01_Yetkisiz_Kullanıcı_Başlangıç_Header/
 │
@@ -123,8 +117,7 @@ PowerPulse-Manual-Testing/
 ├── 07_Yetkili_Kullanıcı_Exercises/
 │
 ├── 08_Proje_Kapanışı/
-│   ├── Test_Durum_Raporu.pdf
-│   └── Nihai_Değerlendirme_ve_Yayın_Önerisi.pdf
+│   
 └── README.md# 
 
 ---
